@@ -9,12 +9,12 @@
 Gawk-Stealth consists of two parts: a set of scripts that can be run from within GNU AWK (using the -f option), and a statically linked 32-bit version of GNU AWK that is patched with our Romulan Cloaking technology.  
   
 The scripts included in gawk-stealth are:  
-banner_grab.gawk - simple awk banner grabber
-banner_grab_pastable.gawk - one-line pastable version of the banner grabber
-gawk_get.gawk - script to make an HTTP (no HTTPS) request and dump output to STDOUT
-gawk_http_bnc.gawk - Listens on a port and when a connection is made to it, performs an HTTP request as configured and redirects output to connecting host
-gawkserv.gawk - Very simple POC backdoor server
-rgawkcmd-0.2.gawk - Full-featured bindshell with listen, reverse-connect, and authentication options
+* banner_grab.gawk - simple awk banner grabber
+* banner_grab_pastable.gawk - one-line pastable version of the banner grabber
+* gawk_get.gawk - script to make an HTTP (no HTTPS) request and dump output to STDOUT
+* gawk_http_bnc.gawk - Listens on a port and when a connection is made to it, performs an HTTP request as configured and redirects output to connecting host
+* gawkserv.gawk - Very simple POC backdoor server
+* rgawkcmd-0.2.gawk - Full-featured bindshell with listen, reverse-connect, and authentication options
   
 ###COMPILING gawk32.static    
   
