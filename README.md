@@ -1,6 +1,6 @@
 [gawk-stealth](http://gitbrew.org/gawk)  
 ========================================
-##Copyright (C) 2012 Iadnah [<iadnah@gitbrew.org>](mailto:iadnah@gitbrew.org)  
+##Copyright (C) 2012-2013 Iadnah [<iadnah@uplinklounge.com>](mailto:iadnah@uplinklounge.com)  
 ##gawk-stealth is distributed under the GNU GPL  
   
   
@@ -58,7 +58,4 @@ You should have received a copy of the GNU General Public License along with thi
 See the COPYING file for more information.
 
 ---
-Iadnah [<iadnah@gitbrew.org>](mailto:iadnah@gitbrew.org)  
-Security Consultant  
-[gitbrew.org](http://gitbrew.org)  
-[Hephaestus Security](http://hephaestussec.com)
+Iadnah [<iadnah@guplinklounge.com>](mailto:iadnah@uplinklounge.com)
